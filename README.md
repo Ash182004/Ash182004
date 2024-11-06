@@ -9,6 +9,12 @@
 
 - [![An image of @ash182004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ash182004)](https://holopin.io/@ash182004)
 
+- the Badges I collected by contributing in GSSOC
+- ![Share Badge (7)](https://github.com/user-attachments/assets/470789b2-2c10-48f7-b223-8ea55b84d52d)  ![Share Badge (6)](https://github.com/user-attachments/assets/cd3ade1a-3e03-4e3f-be72-a70726cfd4cf) ![Share Badge (5)](https://github.com/user-attachments/assets/19b45f2f-8ea0-429f-8159-a09c1e353b72) 
+
+
+
+
 
 
 
