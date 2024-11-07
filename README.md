@@ -13,9 +13,9 @@
 
 These are the badges I collected by contributing to GSSOC:
 
-<img src="https://github.com/user-attachments/assets/470789b2-2c10-48f7-b223-8ea55b84d52d" alt="Share Badge 7" width="150" height="100" />
-<img src="https://github.com/user-attachments/assets/cd3ade1a-3e03-4e3f-be72-a70726cfd4cf" alt="Share Badge 6" width="150" height="100" />
-<img src="https://github.com/user-attachments/assets/19b45f2f-8ea0-429f-8159-a09c1e353b72" alt="Share Badge 5" width="150" height="100" />
+<img src="https://github.com/user-attachments/assets/470789b2-2c10-48f7-b223-8ea55b84d52d" alt="Share Badge 7" width="250" height="250" />
+<img src="https://github.com/user-attachments/assets/cd3ade1a-3e03-4e3f-be72-a70726cfd4cf" alt="Share Badge 6" width="250" height="250" />
+<img src="https://github.com/user-attachments/assets/19b45f2f-8ea0-429f-8159-a09c1e353b72" alt="Share Badge 5" width="250" height="250" />
 
 
 
